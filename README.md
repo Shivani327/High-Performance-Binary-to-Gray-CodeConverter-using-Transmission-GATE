@@ -1,13 +1,13 @@
 # High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE
 # Table of Content
 - [Abstract](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/blob/main/README.md#abstract)
-- [INTRODUCTION](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/edit/main/README.md#introduction)
-- [Binary to Gray Code Converter](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/edit/main/README.md#binary-to-gray-code-converter)
-- [Tools Used](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/edit/main/README.md#tools-used)
-- [Design Approach](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/edit/main/README.md#design-approach)
-- [Author](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/edit/main/README.md#author)
-- [Acknowledgements](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/edit/main/README.md#acknowledgements)
-- [References](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/edit/main/README.md#references)
+- [INTRODUCTION](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/blob/main/README.md#introduction)
+- [Binary to Gray Code Converter](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/blob/main/README.md#binary-to-gray-code-converter)
+- [Tools Used](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/blob/main/README.md#tools-used)
+- [Design Approach](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/blob/main/README.md#design-approach)
+- [Author](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/blob/main/README.md#author)
+- [Acknowledgements](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/blob/main/README.md#acknowledgements)
+- [References](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/blob/main/README.md#references)
 # Abstract
 The circuit gives an idea to improve power efficiency and effective area of binary to gray code converter using very popular transmission gate technology. Some sensors send information in gray code. So this must be important to convert a given binary stream into its equivalent gray code. In this paper the binary to gray code converter has been developed using gate, circuit level. The conversion has beendone using conventional and transmission gate level and comparing these two in terms of power, number of transistors used and last but not the least area. The simulation result shows that binary to gray code converter using transmission gate has improved power efficiency and area by 76.22% and 72.3% respectively.
 # INTRODUCTION
