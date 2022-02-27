@@ -8,14 +8,14 @@ Second term of consideration for designing of low power area efficient binary to
 # Binary to Gray code converter
 This code converter combinational circuit is designed to convert binary to gray code. The input code of code converter is binary and output code of code converter is gray code.
 
-Following truth table shows 4-bit binary to gray code converter:
+- Following truth table shows 4-bit binary to gray code converter:
 ![image](https://user-images.githubusercontent.com/100506927/155873334-7a5027e4-6d33-4e4f-9c39-d6b4495d4c1f.png)
 
-Logic circuit design of binary to gray code converter:
+- Logic circuit design of binary to gray code converter:
 
 ![image](https://user-images.githubusercontent.com/100506927/155873482-9ebee343-5802-43f4-952c-1b5a24099251.png)
 
-CMOS implementation using transmission gates:
+- CMOS implementation using transmission gates:
 
 ![2-67bf544d19abcnb](https://user-images.githubusercontent.com/100506927/155874035-4a0f0459-ec16-4767-9219-ec447a0b4e36.jpg)
 
@@ -26,3 +26,26 @@ CMOS implementation using transmission gates:
   
  - Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
   
+# DESIGN APPROACH
+- First of all, I have created a 2-bit XOR Gate to implement the circuit design:
+ 
+ ![2022-02-25 (14)](https://user-images.githubusercontent.com/100506927/155874930-60726d70-a840-4740-bcaa-d7a930dbbc63.png)
+- Now using the symbol of the above XOR Gate, I have now created the schematic of 4-bit Binary to Gray converter:
+ 
+ ![2022-02-25 (15)](https://user-images.githubusercontent.com/100506927/155875024-e991971a-f442-421b-984c-cec7c7ba2b1f.png)
+- TRANSIENT ANALYSIS:
+ 
+ ![2022-02-25 (16)](https://user-images.githubusercontent.com/100506927/155875057-980a6af8-f890-462c-b7d6-70de77966b7f.png)
+- Final WAVEFORM of 4-bit Binary to Gray Conerter:
+
+![2022-02-25 (17)](https://user-images.githubusercontent.com/100506927/155875110-7674d916-7b88-472b-8447-1b8da21b0eeb.png)
+
+# Author
+- Shivani, B.Tech Electronics and Communication Engineering, J.C. Bose University of Science and Technology,YMCA.
+
+# Acknowledgements
+- [Kunal Ghosh, Co-founder, VSD Corp. Pvt. Ltd.](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+- [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
+- [Synopsys India](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
+- [Sameer Durgoji, NIT Karnataka](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
+- [Chinmay panda, IIT Hyderabad](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
