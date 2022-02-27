@@ -1,6 +1,6 @@
 # High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE
 # Abstract
-This paper gives an idea to improve power efficiency and effective area of binary to gray code converter using very popular transmission gate technology. Some sensors send information in gray code. So this must be important to convert a given binary stream into its equivalent gray code. In this paper the binary to gray code converter has been developed using gate, circuit level. The conversion has beendone using conventional and transmission gate level and comparing these two in terms of power, number of transistors used and last but not the least area. The simulation result shows that binary to gray code converter using transmission gate has improved power efficiency and area by 76.22% and 72.3% respectively.
+The circuit gives an idea to improve power efficiency and effective area of binary to gray code converter using very popular transmission gate technology. Some sensors send information in gray code. So this must be important to convert a given binary stream into its equivalent gray code. In this paper the binary to gray code converter has been developed using gate, circuit level. The conversion has beendone using conventional and transmission gate level and comparing these two in terms of power, number of transistors used and last but not the least area. The simulation result shows that binary to gray code converter using transmission gate has improved power efficiency and area by 76.22% and 72.3% respectively.
 # INTRODUCTION
 Low power and area efficient technologies are the primeconcern for VLSI system designers. Together with that, the high speed binary to gray code converter that use low power consumption have indisputably become one of the most crucial components of a processor because they are mostly used in arithmetic logic unit.
  
@@ -15,18 +15,14 @@ Logic circuit design of binary to gray code converter:
 
 ![image](https://user-images.githubusercontent.com/100506927/155873482-9ebee343-5802-43f4-952c-1b5a24099251.png)
 
-CMOS implementation of the given circuit:
-
-![image](https://user-images.githubusercontent.com/100506927/155873596-b12c4331-62b6-4d80-8693-e9f5ee3a906b.png)
-
 CMOS implementation using transmission gates:
 
 ![2-67bf544d19abcnb](https://user-images.githubusercontent.com/100506927/155874035-4a0f0459-ec16-4767-9219-ec447a0b4e36.jpg)
 
 # Tools Used 
-  Synopsys Custom Compiler:  The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
+ - Synopsys Custom Compiler:  The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
   
-  Synopsys Primewave:  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
+ - Synopsys Primewave:  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
   
-  Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
+ - Synopsys 28nm PDK:  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
   
