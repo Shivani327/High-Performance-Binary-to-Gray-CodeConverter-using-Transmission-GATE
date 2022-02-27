@@ -49,3 +49,9 @@ This code converter combinational circuit is designed to convert binary to gray 
 - [Synopsys India](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
 - [Sameer Durgoji, NIT Karnataka](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
 - [Chinmay panda, IIT Hyderabad](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/')
+
+# References
+- Saradindu Panda, A.banerjee, B.maji and Dr. A.K. Mukhopadhyay,“Power and delay comparison in between different types of full addercircuits”, International Journal of advanced research in electrical,electronics and instrumentation engineering, volume 1, issue3.pp.168-172, 2012.
+- Swati Sharma and Rajesh Mehra, “Area and power efficient design ofXNOR-XOR logic using 65nm technology”, International Journal ofengineering and technical, pp.57-60, 2014.
+- Neil H.E.Weste, David Harris and Ayan Banaerjee, “CMOS VLSIdesign”. Pearson Education,Inc., pp. 11, Third Edition, 2005.
+- S,Goel.M.A. Elgamel, M.A. Bayoumi, and Y.Hanarty. “Designmethodologies for high performance noise-tolerant XOR-XNORcircuits,” circuits and systems I:Regular papers, IEEE Transactionson, vol.53,pp.817-878,2006.
