@@ -1,6 +1,6 @@
 # High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE
 # Table of Content
-- [Abstract](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/edit/main/README.md#abstract)
+- [Abstract](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/blob/main/README.md#abstract)
 - [INTRODUCTION](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/edit/main/README.md#introduction)
 - [Binary to Gray Code Converter](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/edit/main/README.md#binary-to-gray-code-converter)
 - [Tools Used](https://github.com/Shivani327/High-Performance-Binary-to-Gray-CodeConverter-using-Transmission-GATE/edit/main/README.md#tools-used)
